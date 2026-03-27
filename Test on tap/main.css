@@ -473,3 +473,9 @@ tbody td:first-child {
     display: none;
 }
 
+.error {
+  color: red;
+  font-size: 12px;
+  margin-top: 2px;
+  display: block;
+}
